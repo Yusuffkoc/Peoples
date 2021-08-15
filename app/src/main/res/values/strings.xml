@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Peoples</string>
+    <string name="failed_text">No one is here !</string>
+</resources>
